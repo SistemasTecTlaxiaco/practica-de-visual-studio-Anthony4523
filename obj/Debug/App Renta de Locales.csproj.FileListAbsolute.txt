@@ -1,0 +1,19 @@
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\bin\Debug\App Renta de Locales.exe.config
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\bin\Debug\App Renta de Locales.exe
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\bin\Debug\App Renta de Locales.pdb
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App Renta de Locales.csprojAssemblyReference.cache
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form1.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form2.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Properties.Resources.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App Renta de Locales.csproj.GenerateResource.cache
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App Renta de Locales.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App Renta de Locales.exe
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App Renta de Locales.pdb
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form3.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form5.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form4.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form6.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form10.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form7.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form8.resources
+C:\Users\admin\Documents\6º Semestre\Tópicos Avanzados De Programación\App Renta de Locales\App Renta de Locales\obj\Debug\App_Renta_de_Locales.Form9.resources
